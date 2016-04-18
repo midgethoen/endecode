@@ -10,6 +10,10 @@
     "urlencode": "bin/encode.js",
     "urldecode": "bin/decode.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/midgethoen/endecode.git"
+  },
   "keywords": [
     "urlencode",
     "urldecode",
@@ -18,5 +22,6 @@
     "decode"
   ],
   "author": "Midge 't Hoen",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/midgethoen/endecode"
 }
