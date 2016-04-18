@@ -1,0 +1,22 @@
+{
+  "name": "endecode",
+  "version": "0.1.0",
+  "description": "shell commands for url en-/decoding",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "urlencode": "bin/encode.js",
+    "urldecode": "bin/decode.js"
+  },
+  "keywords": [
+    "urlencode",
+    "urldecode",
+    "url",
+    "encode",
+    "decode"
+  ],
+  "author": "Midge 't Hoen",
+  "license": "MIT"
+}
