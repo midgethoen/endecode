@@ -1,6 +1,6 @@
 {
   "name": "endecode",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "shell commands for url en-/decoding",
   "main": "index.js",
   "scripts": {
